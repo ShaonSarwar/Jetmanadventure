@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Crystal
+  - Fuel
+  - Shield
+  - Ground
+  - Effects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Last Background
+    uniqueID: 4179584621
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Crystal
+    uniqueID: 2682668567
+    locked: 0
+  - name: Border
+    uniqueID: 1571843579
+    locked: 0
+  - name: Snow
+    uniqueID: 2135890327
+    locked: 0
+  - name: Effects
+    uniqueID: 542564581
+    locked: 0
+  - name: Player
+    uniqueID: 2430600841
+    locked: 0
+  - name: BlastEffect
+    uniqueID: 4170478865
+    locked: 0
